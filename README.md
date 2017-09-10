@@ -49,6 +49,6 @@ A bit of a legacy project on Hangman. It's an implementation of hangman, where t
 	_ _ a a _ / v a n / _ _ n _ _ n
 	You have 8 remaining guesses
 
-After several more failures, the screen will turn red and look like this:
+After several more failures, the screen will turn red and look like this (NB this has been building up in steps like a proper hangman game):
 
 ![screenshot](https://github.com/elterminad0r/hangman/blob/master/fail.png)
